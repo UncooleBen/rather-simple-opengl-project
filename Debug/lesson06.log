@@ -1,0 +1,54 @@
+﻿  lesson06.cpp
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(231): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(232): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(233): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(234): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(250): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(260): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(261): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(262): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(263): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(545): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(665): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(895): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(909): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(948): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(952): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(961): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(965): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(974): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(978): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(987): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(988): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(999): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1000): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1011): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1012): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1022): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1023): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1035): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1046): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1061): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1072): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1083): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1095): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1105): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1115): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1124): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1135): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1138): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1147): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1152): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1159): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1164): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1172): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1177): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1184): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1189): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\计算机图形学\finalproject\lesson06.cpp(1202): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1216,5): warning MSB8012: TargetPath(C:\Users\Juntao Peng\Desktop\计算机图形学\FinalProject\.\Debug\FinalProject.exe) does not match the Linker's OutputFile property value (C:\Users\Juntao Peng\Desktop\计算机图形学\FinalProject\Debug\lesson06.exe). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\Common7\IDE\VC\VCTargets\Microsoft.CppBuild.targets(1218,5): warning MSB8012: TargetName(FinalProject) does not match the Linker's OutputFile property value (lesson06). This may cause your project to build incorrectly. To correct this, please make sure that $(OutDir), $(TargetName) and $(TargetExt) property values match the value specified in %(Link.OutputFile).
+lesson06.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/SAFESEH' specification
+  lesson06.vcxproj -> C:\Users\Juntao Peng\Desktop\计算机图形学\FinalProject\.\Debug\FinalProject.exe

@@ -1,0 +1,52 @@
+﻿  FinalProjectSrc.cpp
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(49): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(208): note: see declaration of 'fopen'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(219): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(220): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(221): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(222): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(238): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(248): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(249): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(250): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(251): warning C4244: 'argument': conversion from 'double' to 'GLfloat', possible loss of data
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(550): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(674): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(924): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(938): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(977): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(981): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(990): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(994): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1003): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1007): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1016): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1017): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1028): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1029): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1040): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1041): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1051): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1052): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1064): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1075): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1090): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1101): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1112): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1124): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1134): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1144): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1153): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1164): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1167): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1176): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1181): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1188): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1193): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1201): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1206): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1213): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1218): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1231): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+c:\users\juntao peng\desktop\finalproject\finalproject\finalprojectsrc.cpp(1241): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  FinalProject.vcxproj -> C:\Users\Juntao Peng\Desktop\FinalProject\FinalProject\Debug\FinalProject.exe
